@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adi22.iml" filepath="$PROJECT_DIR$/.idea/modules/adi22.iml" group="adi22" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/adi22-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/adi22-app.iml" group="adi22/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try1.iml" filepath="$PROJECT_DIR$/try1.iml" />
+    </modules>
+  </component>
+</project>
